@@ -1,0 +1,6 @@
+{
+  "auth-server-url": "http://localhost:8080",
+  "realm": "SimpleOrderRealm",
+  "client-id": "order-app",
+  "public-client": false
+}
